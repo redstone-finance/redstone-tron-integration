@@ -1,0 +1,15 @@
+{
+  "name": "redstone-tron-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/redstone-finance/redstone-tron-integration",
+  "author": "hatskier <suvorovalex1997@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "tronbox": "^3.0.0"
+  },
+  "dependencies": {
+    "@redstone-finance/evm-connector": "^0.0.11"
+  }
+}
