@@ -3834,14 +3834,14 @@ redstone-oracles-smartweave-contracts@latest:
   resolved "https://registry.yarnpkg.com/redstone-oracles-smartweave-contracts/-/redstone-oracles-smartweave-contracts-1.0.1.tgz#51c802139edf2f46b5f50b9e04995ebbf0e8b3b7"
   integrity sha512-W+h3KB2gdxmK+WnfDT+iZHVQ25LkdTuV5a4cem5pgzgjo6vf2nqFPlkXcWpYI791mdeobwC4yoSybrTrIXSKfQ==
 
-redstone-protocol@*, redstone-protocol@1.0.2:
+redstone-protocol@*, redstone-protocol@1.0.2, redstone-protocol@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/redstone-protocol/-/redstone-protocol-1.0.2.tgz#be524037631f510906751b09b8942302f3450324"
   integrity sha512-nrvRHXRh7Spij/V8RpMuapRtiFUJgMX4RAxNYIb4KtkNGQy80LTJCVEiwt2gOtyMSbIr9kiZxa0RqwDthN968w==
   dependencies:
     ethers "^5.6.8"
 
-redstone-sdk@1.0.4:
+redstone-sdk@1.0.4, redstone-sdk@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/redstone-sdk/-/redstone-sdk-1.0.4.tgz#9a5bfe3fe9e21c16bf73fbfa92b886da2c6142ca"
   integrity sha512-hqqOQwgJn0UwEi+PHZLa6fWPl1K95bCMNiHC/3+w6xznGFgCW4f7CQERWAeoOvidJHYETC7t5JnJ9naZTQUEVw==
