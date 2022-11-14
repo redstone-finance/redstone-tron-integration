@@ -1,4 +1,4 @@
-# redstone-tron-integration
+# RedStone oracles integration with TRON
 
 This repository contains a sample dApp implementation with the integrated RedStone oracles.
 
@@ -35,6 +35,10 @@ Sample RedStone oracle consumer is alredy deployed on the Tron testnet (Nile): [
 
 ## 🔥 Live Frontend Demo (showroom)
 
+<img width="1240" alt="Screenshot 2022-11-14 at 18 06 17" src="https://user-images.githubusercontent.com/48165439/201722248-b0d714b2-c382-43f5-835e-afc87e532327.png">
+
+## Live Frontend Demo (showroom)
+
 You can check fetching the oracle data from the deployed contract using the following dapp: https://tron-showroom.redstone.finance/
 
 The source code of the dApp is publicly available at: https://github.com/redstone-finance/redstone-tron-showroom
@@ -43,6 +47,14 @@ The source code of the dApp is publicly available at: https://github.com/redston
 
 - Front-end app demonstrating fetching oracle data in the TRON smart contract: https://github.com/redstone-finance/redstone-tron-showroom
 - Implementation of core modules in the RedStone oracle ecosystem: https://github.com/redstone-finance/redstone-oracles-monorepo
+
+### Fetched Oracle Data view
+
+<img width="1267" alt="Screenshot 2022-11-14 at 18 05 56" src="https://user-images.githubusercontent.com/48165439/201721819-6e4449ef-319d-4090-a811-04ba19b33bbe.png">
+
+### Connecting TRON wallet
+
+<img width="1276" alt="Screenshot 2022-11-14 at 18 06 39" src="https://user-images.githubusercontent.com/48165439/201722041-5e1da82e-14d3-4d7d-afe6-bca5e1b8a271.png">
 
 ## 🙋‍♂️ Contact
 
