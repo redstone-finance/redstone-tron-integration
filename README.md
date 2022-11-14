@@ -29,15 +29,13 @@ To run the tests:
 - Go to the `dapp` folder (`cd ./dapp`)
 - Run the tests (`npx tronbox test`)
 
-## 🔥 Deployed Smart Contracts
+## 🔐 Deployed Smart Contracts
 
 Sample RedStone oracle consumer is alredy deployed on the Tron testnet (Nile): [TQQXQkS6qbAGkmYTukNmiddZMH6zLSwvgi](https://nile.tronscan.org/#/contract/TQQXQkS6qbAGkmYTukNmiddZMH6zLSwvgi/code)
 
-## 🔥 Live Frontend Demo (showroom)
-
 <img width="1240" alt="Screenshot 2022-11-14 at 18 06 17" src="https://user-images.githubusercontent.com/48165439/201722248-b0d714b2-c382-43f5-835e-afc87e532327.png">
 
-## Live Frontend Demo (showroom)
+## 🔥 Live Frontend Demo (showroom)
 
 You can check fetching the oracle data from the deployed contract using the following dapp: https://tron-showroom.redstone.finance/
 
