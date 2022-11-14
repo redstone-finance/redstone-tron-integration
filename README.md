@@ -1,3 +1,5 @@
+<img alt="tron-redstone" src="https://user-images.githubusercontent.com/48165439/201730419-9d1b9cfa-18a7-4358-9424-b7ab77d6b8e0.png">
+
 # RedStone oracles integration with TRON
 
 This repository contains a sample dApp implementation with the integrated RedStone oracles.
